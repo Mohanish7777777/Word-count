@@ -25,8 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```python
-# Reference No: 22002972
-# Developed By: JENISHA.J
+# Reference No: 22002294
+# Developed By: Mohanish.K
 
 num_words=0
 with open('text.txt','r') as f:
